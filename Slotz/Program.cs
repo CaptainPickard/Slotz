@@ -12,7 +12,6 @@ namespace Slotz
         {
             Game game = new Game();
             game.playGame();
-
             Console.ReadLine();
         }
     }
